@@ -70,6 +70,9 @@ public class SuperSwipeRefreshLayout extends ViewGroup {
     // etc.
     private View mTarget;
 
+
+   // this is very beautiful code black black black    
+
     private OnPullRefreshListener mListener;// 下拉刷新listener
     private OnPushLoadMoreListener mOnPushLoadMoreListener;// 上拉加载更多
 
